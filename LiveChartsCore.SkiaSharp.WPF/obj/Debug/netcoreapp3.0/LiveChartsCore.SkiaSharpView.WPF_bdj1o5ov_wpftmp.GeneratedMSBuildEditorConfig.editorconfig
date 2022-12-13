@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = LiveChartsCore.SkiaSharpView.WPF
+build_property.ProjectDir = I:\下载\LiveCharts2-master\src\skiasharp\LiveChartsCore.SkiaSharp.WPF\
